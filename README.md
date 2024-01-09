@@ -1,6 +1,7 @@
 # KGCCL
 
 This is the implementation for our ECIR'24 paper: Knowledge Graph Cross-View Contrastive Learning for Recommendation.
+
 You are welcome to cite our paper:
 ```
 @article{meng2023knowledge,
