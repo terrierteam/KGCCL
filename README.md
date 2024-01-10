@@ -7,7 +7,7 @@ You are welcome to cite our paper:
 @inproceedings{meng2023knowledge,
   title={Knowledge Graph Cross-View Contrastive Learning for Recommendation},
   author={Meng, Zeyuan and Ounis, Iadh and Macdonald, Craig and Yi, Zixuan},
-	booktitle = {Proc. of ECIR},
+  booktitle = {Proc. of ECIR},
   year={2023}
 }
 ```
