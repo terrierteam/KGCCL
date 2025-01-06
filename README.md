@@ -11,3 +11,7 @@ You are welcome to cite our paper:
   year={2024}
 }
 ```
+
+Run model:
+
+python main.py
